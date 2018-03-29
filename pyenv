@@ -1,0 +1,4 @@
+# pyenv
+export PATH="/home/anton/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"

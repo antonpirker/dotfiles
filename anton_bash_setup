@@ -1,0 +1,8 @@
+#
+# Script for including all dot file for setting up bash
+#
+
+. ~/dotfiles/bash_prompt
+. ~/dotfiles/bash_autocompletion_ignore_case
+. ~/dotfiles/pyenv
+
